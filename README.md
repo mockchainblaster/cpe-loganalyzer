@@ -18,7 +18,7 @@ It is designed for **containerized FileNet deployments** (e.g., Cloud Pak for Bu
 Install Python (3.8+) and the required libraries:
 
 ```bash
-pip install reportlab matplotlib
+pip install -r requirements.txt
 ```
 
 ### 2. Optional: Kubernetes CLI
